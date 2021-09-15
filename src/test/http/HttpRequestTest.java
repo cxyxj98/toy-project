@@ -75,8 +75,8 @@ public class HttpRequestTest extends HttpServlet {
 		headers.put("Content-Type", "application/json");
 		
 		List<String> javaKeywords = new ArrayList<String>();
-		javaKeywords.add("스프링");
-		javaKeywords.add("스프링부트");
+		javaKeywords.add("서블릿");
+		javaKeywords.add("JSP");
 		
 		List<String> pythonKeywords = new ArrayList<String>();
 		pythonKeywords.add("장고");
